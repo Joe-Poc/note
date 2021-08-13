@@ -1,0 +1,21 @@
+
+function T1(N){
+	let	arrObj = [
+			{"U":"user_01", "T": 1}, 
+			{"U":"user_02", "T": 11}, 
+			{"U":"user_03", "T": 3}
+		]
+
+	while(true){
+		if(N==0){
+			break;
+		}
+		arrObj.sort((a, b) => -(a.T - b.T)).forEach(aO => {
+			if(N > 0 && aO.T > 0){
+				aO.T --;
+				N --;
+			}
+		})
+	}
+	console.log(arrObj);
+}

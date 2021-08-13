@@ -1,0 +1,21 @@
+1. git operation
+2. locate error and read code
+3. logical thinking
+4. node
+	 aysnc await 
+	 promise().then();
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+	
