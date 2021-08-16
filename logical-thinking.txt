@@ -19,7 +19,7 @@ question 1:
 	out_print: [{"U":"user_01", "T": 0}, {"U":"user_02", "T": 9}, {"U":"user_03", "T": 2}]
 
 	15 - 5 = 10
-	out_print: [{"U":"user_01", "T": 0}, {"U":"user_02", "T": 8}, {"U":"user_03", "T": 2}]
+	out_print: [{"U":"user_01", "T": 0}, {"U":"user_02", "T": 9}, {"U":"user_03", "T": 1}]
 
 	15 - 6 = 9
 	out_print: [{"U":"user_01", "T": 0}, {"U":"user_02", "T": 8}, {"U":"user_03", "T": 1}]

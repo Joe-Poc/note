@@ -19,7 +19,7 @@ question 2:
 	out_print: [{"U":"user_01", "T": 0}, {"U":"user_02", "T": 9}, {"U":"user_03", "T": 2}, {"U":"user_04", "T": 5}]
 	
 	20 - 5 = 15
-	out_print: [{"U":"user_01", "T": 0}, {"U":"user_02", "T": 8}, {"U":"user_03", "T": 2}, {"U":"user_04", "T": 5}]
+	out_print: [{"U":"user_01", "T": 0}, {"U":"user_02", "T": 9}, {"U":"user_03", "T": 1}, {"U":"user_04", "T": 5}]
 
 	20 - 6 = 14
 	out_print: [{"U":"user_01", "T": 0}, {"U":"user_02", "T": 8}, {"U":"user_03", "T": 1}, {"U":"user_04", "T": 5}]
